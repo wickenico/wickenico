@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Skills
+
+### Loading...
+
+### Links
+
+<div align="center">
+  <p>Connect with me on</p>
+  <a href="https://linkedin.com/in/nico-wickersheim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+### Stats
+
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=wickenico&show_icons=true&title_color=00ffc2&bg_color=282e2f&icon_color=00ffc2&text_color=FFFFFF">
+</p>
