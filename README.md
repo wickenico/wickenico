@@ -7,8 +7,6 @@ I am a software developer at [sevDesk](https://sevdesk.de) working with Kotlin /
 
 - 🌐 Visit my [porfolio website](https://nicowickersheim.dev) for complete background and contact.
 
-### Stats
-
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=wickenico&show_icons=true&title_color=00ffc2&bg_color=282e2f&icon_color=00ffc2&text_color=FFFFFF">
 </p>
