@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I am Nico!
 
-I am a software developer at [sevDesk](https://sevdesk.de) working with Kotlin / Spring Boot and Cloud-Natvie technologies.
+I am a software developer at [sevDesk](https://sevdesk.de) working with Kotlin, React and cloud-Nntvie technologies.
 
 - 🌐 Visit my [porfolio website](https://nicowickersheim.dev) for complete background and contact.
 
