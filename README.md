@@ -8,7 +8,7 @@
 
 I am a Developer at [sevDesk](https://sevdesk.de) working with Kotlin, React and cloud-native technologies like Terraform and AWS.
 
-- 🌐 Visit my [porfolio website](https://nicowickersheim.dev) for complete background and contact.
+- 🌐 Visit my [website](https://nicowickersheim.dev) for complete background and contact.
 - 🌐 See also my [cv](https://cv-nicowickersheim.vercel.app).
 
 <p align=center>  
