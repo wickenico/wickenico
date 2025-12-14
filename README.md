@@ -8,6 +8,8 @@
 
 I am a Developer at [sevDesk](https://sevdesk.de) working with Kotlin, React and cloud-native technologies like Terraform and AWS.
 
+- Creator of [WailBrew](https://github.com/wickenico/WailBrew).
+
 - 🌐 Visit my [website](https://nicowickersheim.dev) for complete background and contact.
 - 🌐 Check also my [cv](https://cv-nicowickersheim.vercel.app).
 
