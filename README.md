@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Nico!+👋;Software+Developer+aus+Freiburg.;Kotlin+%7C+React+%7C+Cloud+Native+%7C+AWS;Creator+von+WailBrew+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00CCCC&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Nico!+👋;Software+Developer+aus+Freiburg.;Kotlin+%7C+React+%7C+Cloud+Native+%7C+AWS;Creator+von+WailBrew+🚀" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wickenico&color=00FFFF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=wickenico&color=00CCCC&style=flat" alt="Profile views" />
 </p>
 
 # 🧑‍💻 About Me
@@ -68,5 +68,3 @@ const me = {
 # 💝 Sponsor Me
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-🩵_on_GitHub-ff69b4?style=for-the-badge)](https://github.com/sponsors/wickenico)
-
-
