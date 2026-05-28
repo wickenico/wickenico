@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00CCCC&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Nico!+👋;Software+Developer+aus+Freiburg.;Kotlin+%7C+React+%7C+Cloud+Native+%7C+AWS;Creator+von+WailBrew+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00CCCC&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Nico!+👋;Software+Developer+from+Freiburg.;React+%7C+Cloud+Native+%7C+AWS+%7C+Terraform;Creator+von+WailBrew+🚀" />
 </p>
 
 ---
