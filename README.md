@@ -18,11 +18,12 @@
 ```ts
 const me = {
   name: "Nico",
-  role: "Advanced Software Engineer",
+  role: "Advanced Software Engineer IAM",
   location: "Freiburg 🇩🇪",
-  work: "sevDesk",
+  work: "Shine",
   languages: ["TypeScript", "Terraform"],
   interests: [
+    "Identity & Access Management",
     "Cloud Native", 
     "UI/UX Engineering",
     "Open Source",
